@@ -20,7 +20,7 @@ Deep seek clean преобразует текст из Markdown в обычны�
 Для приложения был использован **Markdig** и **Xamarin.CommunityToolkit**
 # Код
 ## MainPage
-```csarp
+```csharp
  private void ClearTextButton_Clicked(object sender, EventArgs e)
  {
      var pipeline = new MarkdownPipelineBuilder().Build();
@@ -36,7 +36,7 @@ Deep seek clean преобразует текст из Markdown в обычны�
  }
 ```
 ## MainActivity
-```csarp
+```csharp
 [assembly: ExportRenderer(typeof(Editor), typeof(SelectAllEditorRenderer))]
 namespace deepSeekClean.Droid
 {
