@@ -1,6 +1,10 @@
 # Deep seek clean
 ## Простое Xamarin приложение написанное на C# для демонстрации моей возможности создания apk файлов
 Deepseek использует язык разметки Markdown, и из-за этого при копирования на телефоне тест будет выглядеть следующим образом:
+
+
+
+
 ![image](https://github.com/user-attachments/assets/c03803de-b7cf-49b1-932a-0a36bde650fd)
 Deep seek clean преобразует текст из Markdown в обычный
 ![image](https://github.com/user-attachments/assets/51cbcd47-1bb8-4efd-8e16-99e466ef6b99)
